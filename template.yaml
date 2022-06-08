@@ -3,7 +3,7 @@ kind: Template
 metadata:
   name: k3t-javascript-react-mftd
   title: Javascript React Microfrontend
-  description: 
+  description: Criar uma single page application usando ReactJs microfrontend
   tags:
     - javascript
     - microfrontend
@@ -14,7 +14,7 @@ metadata:
     - isomophic
     - single spa
 spec:
-  owner: 
+  owner: tech@kode3.tech
   type: website
   parameters:
     - title: Provide some simple information
